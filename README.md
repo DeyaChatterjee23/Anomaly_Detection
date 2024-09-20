@@ -1,6 +1,9 @@
 # EEG Time Series Anomaly Detection
 
-This project presents an approach, methodology, and results for detecting anomalies in an EEG time series dataset. The objective is to classify subjects into alcoholic and control categories using various anomaly detection algorithms after performing data preparation, feature extraction, and model evaluation.
+This project presents an approach, methodology, and results for detecting anomalies in an EEG time series dataset. The objective is to classify subjects into alcoholic and control categories using various anomaly detection algorithms after performing data preparation, feature extraction, and model evaluation. 
+
+## Dataset
+The data has been sourced from: https://archive.ics.uci.edu/dataset/121/eeg+database
 
 ## Table of Contents
 - [Project Overview](#project-overview)
